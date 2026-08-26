@@ -49,4 +49,4 @@ YOHA/
 This landing page was created as a client project for Yoha, and also serves as a portfolio showcase of responsive web design.
 ## Author
 Developed by **Christal Jeenu**  
-[GitHub Profile](c)
+[[GitHub Profile](c)](https://github.com/christaljeenu13)
